@@ -1,0 +1,39 @@
+body {
+    font-family: "Roboto";
+    font-size: 10px;
+    line-height: 3.5em;
+    font-weight: 300;
+    background-color: gainsboro;
+  }
+
+h1 {
+    font-size: 7em;
+    background-color: crimson;
+    text-align: center;
+    margin: 15px;
+    border: 1px solid black;
+    padding: 22px ;
+}
+
+h2 {
+    font-size: 3em;
+    margin: 15px;
+    text-align: center;
+    margin: auto;
+    border: 1px solid green;
+    background-color:crimson;
+    width: 550px;
+
+}
+
+
+
+img {
+    width: 300px;
+    text-align: center;
+    font-weight: 400;
+    display: block;
+    margin: auto;
+    margin-top: 8px;
+    padding-bottom: 10px;
+}
